@@ -1,2 +1,2 @@
 # tdl
-passphrase max-rockatansky
+max-rockatansky
